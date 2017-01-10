@@ -42,4 +42,4 @@ $DstPortGroup = 'DPortGroupB'
 Once you have configured the parameters to match your infrastructure, you can run the script to vMotion the Virtual Machine.
 
 ## Considerations
-* This script will work only for VMs having a single NIC.
+* This script work only for VMs having a single NIC.
